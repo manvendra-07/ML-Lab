@@ -48,7 +48,7 @@
 
 > **Programming Language** : Python
 
-> **Workspace Resources** : Google Colab/In-memory Jupyter notebooks
+> **Workspace Resources** : Google Colab / In-memory Jupyter notebooks
 
 > **Libraries & API** : numpy, pandas, sklearn, matplotlib, seaborn, etc.
 
